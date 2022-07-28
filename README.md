@@ -5,8 +5,8 @@ This is a solution to the Frontend Mentor challenge.
 Built with Reactjs.
 ## Links
 
- - [Live Website](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Solution URL](https://github.com/matiassingers/awesome-readme)
+ - [Live Website](https://princej02.github.io/easybank-landing/)
+ - [Solution URL](https://github.com/princej02/easybank-landing)
  
 
 
